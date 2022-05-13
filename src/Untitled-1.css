@@ -8,7 +8,7 @@
 }
 
 #fotoPrincipal {
-    background: rgba(0, 0, 0, 0.7) url(Portfolio1.JPG);
+    background: rgba(0, 0, 0, 0.7) url(../assets/Portfolio1.JPG);
     background-size: 100%;
     height: 100vh;
     width: 100%;
@@ -24,7 +24,7 @@
 }
 
 #fotoSecundaria {
-    background:url(Portfolio2.PNG);
+    background:url((../assets/Portfolio2.PNG);
     background-size: 100%;
     height: 2000px;
     background-repeat: no-repeat;
